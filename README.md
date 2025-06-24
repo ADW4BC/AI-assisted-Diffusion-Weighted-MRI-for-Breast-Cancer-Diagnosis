@@ -9,8 +9,11 @@
 This code is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Background
-
 This is the repository for our work hosting some materials that helps you prepare your dataset, train the model and inference.
+
+
+## Segmentation Model
+
 ## Get Started
 
 ### Install MainRequirements
